@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="coco.animation.CircOut"/>
+    <classEntry path="coco.animation.CubicInOut"/>
+    <classEntry path="coco.animation.Ease"/>
+    <classEntry path="coco.animation.EaseOut"/>
+    <classEntry path="coco.animation.IAnimatable"/>
+    <classEntry path="coco.animation.IEase"/>
+    <classEntry path="coco.animation.Juggler"/>
+    <classEntry path="coco.animation.Power"/>
+    <classEntry path="coco.animation.Tween"/>
+    <classEntry path="coco.component.Alert"/>
+    <classEntry path="coco.component.Button"/>
+    <classEntry path="coco.component.ButtonGroup"/>
+    <classEntry path="coco.component.ButtonGroupButton"/>
+    <classEntry path="coco.component.ColorPicker"/>
+    <classEntry path="coco.component.DateChooser"/>
+    <classEntry path="coco.component.DefaultItemRenderer"/>
+    <classEntry path="coco.component.DropDownList"/>
+    <classEntry path="coco.component.Group"/>
+    <classEntry path="coco.component.HGroup"/>
+    <classEntry path="coco.component.IItemRenderer"/>
+    <classEntry path="coco.component.IItemRendererOwner"/>
+    <classEntry path="coco.component.Image"/>
+    <classEntry path="coco.component.ItemRenderer"/>
+    <classEntry path="coco.component.ItemRendererOwnerHelper"/>
+    <classEntry path="coco.component.Label"/>
+    <classEntry path="coco.component.List"/>
+    <classEntry path="coco.component.NumericStepper"/>
+    <classEntry path="coco.component.PageList"/>
+    <classEntry path="coco.component.Panel"/>
+    <classEntry path="coco.component.SWFLoader"/>
+    <classEntry path="coco.component.Scroller"/>
+    <classEntry path="coco.component.Slider"/>
+    <classEntry path="coco.component.TextArea"/>
+    <classEntry path="coco.component.TextInput"/>
+    <classEntry path="coco.component.ToggleButton"/>
+    <classEntry path="coco.component.TouchScrollHelper"/>
+    <classEntry path="coco.component.VGroup"/>
+    <classEntry path="coco.component.ViewNavigator"/>
+    <classEntry path="coco.core.Application"/>
+    <classEntry path="coco.core.CallLaterMethod"/>
+    <classEntry path="coco.core.IInvalidating"/>
+    <classEntry path="coco.core.IUIComponent"/>
+    <classEntry path="coco.core.UIComponent"/>
+    <classEntry path="coco.core.coco"/>
+    <classEntry path="coco.core.popup.ApplicationContent"/>
+    <classEntry path="coco.core.popup.ApplicationPopUp"/>
+    <classEntry path="coco.core.popup.PopUp"/>
+    <classEntry path="coco.event.UIEvent"/>
+    <classEntry path="coco.layout.BasicLayout"/>
+    <classEntry path="coco.layout.HorizontalLayout"/>
+    <classEntry path="coco.layout.HorizontalOrderLayout"/>
+    <classEntry path="coco.layout.LayoutBase"/>
+    <classEntry path="coco.layout.TileLayout"/>
+    <classEntry path="coco.layout.VerticalLayout"/>
+    <classEntry path="coco.layout.VerticalOrderLayout"/>
+    <classEntry path="coco.manager.BitmapdataCache"/>
+    <classEntry path="coco.manager.CacheManager"/>
+    <classEntry path="coco.manager.FocusManager"/>
+    <classEntry path="coco.manager.IFocusComponent"/>
+    <classEntry path="coco.manager.PopUpManager"/>
+    <classEntry path="coco.net.URLLoader"/>
+    <classEntry path="coco.util.CocoUI"/>
+    <classEntry path="coco.util.DPIUtil"/>
+    <classEntry path="coco.util.DateUtil"/>
+    <classEntry path="coco.util.FontFamily"/>
+    <classEntry path="coco.util.NameUtil"/>
+    <classEntry path="coco.util.Platform"/>
+    <classEntry path="coco.util.debug"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

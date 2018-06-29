@@ -1,0 +1,5 @@
+TO DO 
+
+TextInput 超出范围问题
+TextInput 在android landscape 模式下无法粘贴问题
+Log
