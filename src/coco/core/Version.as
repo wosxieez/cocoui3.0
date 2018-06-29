@@ -8,6 +8,11 @@ import coco.core.coco;
 //------------------------------------------------------------------------------------
 
 /**
+ * Version 3.0.6</br>
+ * 1 优化 全局字体缩放功能 CocoUI.fontScale = 1
+ */
+
+/**
  * Version 3.0.4</br>
  * 1 优化 Label组件，支持更多属性</br>
  * 2 修改 Label font - fontFamily</br>
@@ -28,7 +33,7 @@ import coco.core.coco;
  * 17 增加 UIComponent 支持enabled属性
  * 18 优化 Application 自适应问题
  */
-coco static const VERSION:String = "3.0.5";
+coco static const VERSION:String = "3.0.6";
 
 /**
  * Version 3.0.5</br>

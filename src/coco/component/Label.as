@@ -1052,7 +1052,7 @@ package coco.component
 			if (formatChanged && !useHtmlText)
 			{
 				var format:TextFormat = textField.defaultTextFormat;
-				format.size = fontSize;
+				format.size = fontSize * CocoUI.fontScale  // 增加全局的字体缩放功能
 				format.color = color;
 				format.align = textAlign;
 				format.font = fontFamily;

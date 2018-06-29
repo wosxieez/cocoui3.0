@@ -40,6 +40,10 @@ package coco.util
 		 */        
 		public static var fontSize:int = 12;
 		/**
+		 * 字体缩放 默认 1.0
+		 */		
+		public static var fontScale: Number = 1.0
+		/**
 		 * 字体颜色 默认 0x000000 
 		 */        
 		public static var fontColor:uint = 0x000000;
