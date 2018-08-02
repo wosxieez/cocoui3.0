@@ -60,7 +60,9 @@
     <classEntry path="coco.manager.CacheManager"/>
     <classEntry path="coco.manager.FocusManager"/>
     <classEntry path="coco.manager.IFocusComponent"/>
+    <classEntry path="coco.manager.IToolTip"/>
     <classEntry path="coco.manager.PopUpManager"/>
+    <classEntry path="coco.manager.ToolTipManager"/>
     <classEntry path="coco.net.URLLoader"/>
     <classEntry path="coco.util.CocoUI"/>
     <classEntry path="coco.util.DPIUtil"/>

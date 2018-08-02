@@ -5,6 +5,7 @@ package coco.core
 	
 	import coco.event.UIEvent;
 	import coco.manager.IFocusComponent;
+	import coco.manager.IToolTip;
 	import coco.util.NameUtil;
 	
 	use namespace coco;
@@ -30,7 +31,7 @@ package coco.core
 	 * 
 	 * @author Coco
 	 */	
-	public class UIComponent extends Sprite implements IUIComponent, IInvalidating, IFocusComponent
+	public class UIComponent extends Sprite implements IUIComponent, IInvalidating, IFocusComponent, IToolTip
 	{
 		include "Version.as";
 		
@@ -194,6 +195,20 @@ package coco.core
 			_isPopUp = value;
 		}
 		
+		//---------------------
+		//	toolTip
+		//---------------------
+		private var _toolTip: String
+		
+		public function get toolTip():String
+		{
+			return _toolTip;
+		}
+
+		public function set toolTip(value:String):void
+		{
+			_toolTip = value;
+		}
 		
 		//---------------------
 		//	application
