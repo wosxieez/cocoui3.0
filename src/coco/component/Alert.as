@@ -293,20 +293,20 @@ package coco.component
 				okButton.height = footHeight;
 				okButton.y = height - okButton.height;
                 
-                cancelButton.width = width / 2 - 1;
+                cancelButton.width = width / 2;
 				cancelButton.height = footHeight;
 				cancelButton.x = cancelButton.width;
 				cancelButton.y = height - footHeight;
             }
             else if (cancelButton)
             {
-                cancelButton.width = width - 1;
+                cancelButton.width = width;
                 cancelButton.height = footHeight;
                 cancelButton.y = height - cancelButton.height;
             }
             else if (okButton)
             {
-                okButton.width = width - 1;
+                okButton.width = width;
                 okButton.height = footHeight;
                 okButton.y = height - okButton.height;
             }
